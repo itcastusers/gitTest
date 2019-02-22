@@ -8,4 +8,8 @@ public class firstGit {
         System.out.println("hello git properties");
         System.out.println("hello git properties");
     }
+    public void test(){
+        int i=0;
+        i += 10;
+    }
 }
